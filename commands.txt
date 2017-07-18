@@ -1,0 +1,16 @@
+  460  git push remote
+  461  git push jyojith
+  462  git push http://gitlab.mobme.in/jyojith/commonreport.git
+  463  git clone https://github.com/irene-george/myfirstrepo.git
+  464  ls
+  465  cd myfirstrepo
+  466  ls
+  467  touch test.c
+  468  ls
+  469  gedit test.c
+  470  ls
+  471  cat test.c
+  472  git add .
+  473  git commit
+  474  history tail -6
+  475  history |tail -6
